@@ -1,0 +1,6 @@
+อันดับการใช้งาน .ipynb ดังนี้
+
+            textCuttingTH >  wordUnionTH  > tableCompleateTH
+ไฟล์ที่นำเข้า   B86.csv       |  outpTH.csv   | newColTH.csv
+                          |               | outpTH.csv
+ไฟล์ผลลัพธ์   outpTH.csv    |  newColTH.csv | outComTH.csv

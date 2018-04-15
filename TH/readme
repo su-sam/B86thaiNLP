@@ -4,3 +4,5 @@
 ไฟล์ที่นำเข้า   B86.csv       |  outpTH.csv   | newColTH.csv
                           |               | outpTH.csv
 ไฟล์ผลลัพธ์   outpTH.csv    |  newColTH.csv | outComTH.csv
+
+ปล. ไฟล์ csv อยู่ใน folder 'csv' นะ

@@ -9,4 +9,4 @@ tableW.py คือ โค้ดส่วนที่พยายามเอา
 
 TableFinalFunction.ipynb คือ Function ตารางตอนผลลัพสุดท้าย รับค่าทีล่ะแถว ไฟล์เขียนต่อจากล่าสุด 'a+' --> New
 
-TableComplete.ipynb คือ ตารางตอนเสร็จ -->
+TableComplete.ipynb คือ ตารางตอนเสร็จ --> New
